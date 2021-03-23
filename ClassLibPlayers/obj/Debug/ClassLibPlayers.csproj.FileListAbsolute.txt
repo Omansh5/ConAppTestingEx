@@ -1,0 +1,9 @@
+D:\Omansh\Day-45\ConAppPlayerTesting\ClassLibPlayers\bin\Debug\ClassLibPlayers.dll
+D:\Omansh\Day-45\ConAppPlayerTesting\ClassLibPlayers\bin\Debug\ClassLibPlayers.pdb
+D:\Omansh\Day-45\ConAppPlayerTesting\ClassLibPlayers\bin\Debug\nunit.framework.dll
+D:\Omansh\Day-45\ConAppPlayerTesting\ClassLibPlayers\bin\Debug\nunit.framework.xml
+D:\Omansh\Day-45\ConAppPlayerTesting\ClassLibPlayers\obj\Debug\ClassLibPlayers.csprojAssemblyReference.cache
+D:\Omansh\Day-45\ConAppPlayerTesting\ClassLibPlayers\obj\Debug\ClassLibPlayers.csproj.CoreCompileInputs.cache
+D:\Omansh\Day-45\ConAppPlayerTesting\ClassLibPlayers\obj\Debug\ClassLibPlayers.csproj.CopyComplete
+D:\Omansh\Day-45\ConAppPlayerTesting\ClassLibPlayers\obj\Debug\ClassLibPlayers.dll
+D:\Omansh\Day-45\ConAppPlayerTesting\ClassLibPlayers\obj\Debug\ClassLibPlayers.pdb

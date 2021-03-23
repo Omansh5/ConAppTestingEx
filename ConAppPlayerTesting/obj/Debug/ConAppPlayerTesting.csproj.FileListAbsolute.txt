@@ -1,0 +1,17 @@
+D:\Omansh\Day-45\ConAppPlayerTesting\ConAppPlayerTesting\bin\Debug\NUnit3.TestAdapter.dll
+D:\Omansh\Day-45\ConAppPlayerTesting\ConAppPlayerTesting\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Omansh\Day-45\ConAppPlayerTesting\ConAppPlayerTesting\bin\Debug\nunit.engine.dll
+D:\Omansh\Day-45\ConAppPlayerTesting\ConAppPlayerTesting\bin\Debug\nunit.engine.api.dll
+D:\Omansh\Day-45\ConAppPlayerTesting\ConAppPlayerTesting\bin\Debug\nunit.engine.core.dll
+D:\Omansh\Day-45\ConAppPlayerTesting\ConAppPlayerTesting\bin\Debug\ConAppPlayerTesting.exe.config
+D:\Omansh\Day-45\ConAppPlayerTesting\ConAppPlayerTesting\bin\Debug\ConAppPlayerTesting.exe
+D:\Omansh\Day-45\ConAppPlayerTesting\ConAppPlayerTesting\bin\Debug\ConAppPlayerTesting.pdb
+D:\Omansh\Day-45\ConAppPlayerTesting\ConAppPlayerTesting\bin\Debug\nunit.framework.dll
+D:\Omansh\Day-45\ConAppPlayerTesting\ConAppPlayerTesting\bin\Debug\nunit.framework.xml
+D:\Omansh\Day-45\ConAppPlayerTesting\ConAppPlayerTesting\obj\Debug\ConAppPlayerTesting.csprojAssemblyReference.cache
+D:\Omansh\Day-45\ConAppPlayerTesting\ConAppPlayerTesting\obj\Debug\ConAppPlayerTesting.csproj.CoreCompileInputs.cache
+D:\Omansh\Day-45\ConAppPlayerTesting\ConAppPlayerTesting\obj\Debug\ConAppPlayerTesting.csproj.CopyComplete
+D:\Omansh\Day-45\ConAppPlayerTesting\ConAppPlayerTesting\obj\Debug\ConAppPlayerTesting.exe
+D:\Omansh\Day-45\ConAppPlayerTesting\ConAppPlayerTesting\obj\Debug\ConAppPlayerTesting.pdb
+D:\Omansh\Day-45\ConAppPlayerTesting\ConAppPlayerTesting\bin\Debug\ClassLibPlayers.dll
+D:\Omansh\Day-45\ConAppPlayerTesting\ConAppPlayerTesting\bin\Debug\ClassLibPlayers.pdb
